@@ -1,0 +1,79 @@
+Pesquisadora: Confirma o consentimento para a entrevista.
+
+Participante: Sim. Ciente de que as respostas são confidenciais e que posso interromper a qualquer momento.
+
+Pesquisadora: Confirmo que a entrevista pode ser iniciada. [Nova pergunta] Há quanto tempo foi diagnosticado com diabetes tipo 2?
+
+Participante: Cerca de sete anos. Também tenho pressão alta.
+
+Pesquisadora: Diagnóstico de outras condições crônicas?
+
+Participante: Não. Apenas diabetes e pressão alta.
+
+Pesquisadora: Histórico familiar de diabetes ou doenças cardíacas?
+
+Participante: Meu pai tinha diabetes, minha mãe tinha pressão alta. Minha avó também tinha diabetes.
+
+Pesquisadora: Descreva sua alimentação em um dia típico, começando pelo café da manhã.
+
+Participante: No café, pão francês com margarina ou queijo branco e café preto. Às vezes, uma fruta (banana ou mamão).
+
+Pesquisadora: Almoço?
+
+Participante: Arroz, feijão, frango ou carne. Salada de alface e tomate.
+
+Pesquisadora: Jantar?
+
+Participante: Geralmente mais leve, como sopa ou sanduíche. Às vezes, repete o almoço.
+
+Pesquisadora: Lanches entre as refeições?
+
+Participante: Uma fruta à tarde ou café com biscoito.
+
+Pesquisadora: Frequência de consumo de refrigerantes, sucos industrializados, doces ou massas.
+
+Participante: Evita refrigerantes, mas consome ocasionalmente no fim de semana. Raramente come doces. Massas, uma vez por semana.
+
+Pesquisadora: Atividade física regular?
+
+Participante: Sim. Caminha por 40 minutos, de segunda a sexta.
+
+Pesquisadora: Outros exercícios?
+
+Participante: Não. Apenas caminhada.
+
+Pesquisadora: Hábito de fumar?
+
+Participante: Nunca fumou.
+
+Pesquisadora: Consumo de bebidas alcoólicas?
+
+Participante: Bebe uma ou duas cervejas no sábado. Não consome durante a semana.
+
+Pesquisadora: Média de horas de sono por noite?
+
+Participante: Dorme entre seis e sete horas. Oito horas é incomum.
+
+Pesquisadora: Acorda durante a noite?
+
+Participante: Raramente, exceto se beber café tarde.
+
+Pesquisadora: Sintomas nos últimos 12 meses: sede excessiva? Vontade de urinar com frequência? Visão embaçada?
+
+Participante: Sede excessiva e urinar com frequência eram comuns antes do tratamento, mas melhoraram. A visão tem um pouco de embaçamento, mas está controlada.
+
+Pesquisadora: Formigamento ou dormência nas mãos ou pés?
+
+Participante: Sente formigamento nos pés ocasionalmente.
+
+Pesquisadora: Sentiu-se desanimado, deprimido ou com pouca energia nos últimos dois meses?
+
+Participante: Não de forma séria que o impeça de realizar atividades. Não buscou ajuda profissional.
+
+Pesquisadora: Gostaria de adicionar alguma informação sobre sua saúde ou rotina?
+
+Participante: Não, sem mais informações.
+
+Pesquisadora: Agradeço a participação. Se surgirem dúvidas, pode entrar em contato.
+
+Participante: OK.
